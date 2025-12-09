@@ -1,5 +1,5 @@
 ---
-title: Team HORANGYEE
+title: Team.HORANGYEE 소개
 description: About HORANGYEE
 author: 연홍
 date: 2025-12-08 13:00:00 +0900
@@ -8,6 +8,9 @@ tags: [Notice]
 pin: true
 math: false
 mermaid: false
+sitemap:
+  changefreq: daily
+  priority : 1.0
 ---
 
 ### 호랑이 시작
