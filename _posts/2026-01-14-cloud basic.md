@@ -9,14 +9,6 @@ IAM 기반 권한 관리부터 STS AssumeRole, VPC 네트워크 구성까지 전
 
 [AWS 기초 실습 정리 PDF 보기](/assets/pdf/aws-basics.pdf)
 
-<!-- (선택) PDF 미리보기 -->
-<iframe
-  src="/assets/pdf/aws-basics-areum.pdf"
-  width="100%"
-  height="900px"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-</iframe>
-
 글 구성 요약
 
  1. IAM (Identity and Access Management)
