@@ -1,3 +1,14 @@
+---
+layout: post
+title: "AWS Cloud Basics"
+author: areum
+date: 2026-01-14 12:00:00 +0900
+categories: [cloud]
+tags: [aws, iam, sts, vpc]
+---
+
+
+
 본 글은 AWS 클라우드 기초 개념과 보안 관점에서의 실습 과정을 정리한 글입니다.  
 IAM 기반 권한 관리부터 STS AssumeRole, VPC 네트워크 구성까지 전반적인 흐름을 다룹니다.
 
