@@ -2,7 +2,7 @@
 layout: post
 title: "AWS Cloud Basics"
 author: areum
-date: 2026-01-14 12:00:00 +0900
+date: 2026-01-13 23:00:00 +0900
 categories: [cloud]
 tags: [aws, iam, sts, vpc]
 ---
